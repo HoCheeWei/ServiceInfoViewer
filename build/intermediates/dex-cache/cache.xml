@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_59cc17fb5aa214d59e39f4d7b306cff8d3bfb20f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_a7156f5d40d21fd3f7fecff3aabd050de595ac83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6e697fd2bdd7bdfc28515d67ca851cad9aa848ac">
+        <dex dex="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\pre-dexed\debug\instant-run_bacfa40661558c839749f7c2665da7324c7659dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_8cabc6b431e368db634e5bb453f967d508f7b738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_1d1d4f39f570dec9ad8fd80db6b1f19e2452e362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_10737cb2a1922c28c9c392f3bcda5712f969b77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5a2c7e2098efe311949282129174ac045aa2c98f">
+        <dex dex="C:\AndroidStudioProjects\ServiceInfoViewer\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_108487d51ba5db1fbadb166498ddfd047fa56d1e.jar" />
+    </item>
+
+</items>
